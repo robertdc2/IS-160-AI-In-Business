@@ -1,1 +1,1 @@
-# IS-160-AI-In-Business
+# img2img (Stable Diffusion) 
