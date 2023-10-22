@@ -1,1 +1,1 @@
-# IS-160-AI-In-Business
+# Digital Binder & CV (Draft)
