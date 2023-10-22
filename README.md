@@ -1,3 +1,6 @@
 # IS-160-AI-In-Business
+Robert Sanchez
 
-dvdsvdv
+Course: IS 160 Fall 2023
+
+Instructor: Dr. Stephen Choi
