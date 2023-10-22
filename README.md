@@ -1,1 +1,1 @@
-# IS-160-AI-In-Business
+# Prompt Engineering (Stable Diffusion) 
