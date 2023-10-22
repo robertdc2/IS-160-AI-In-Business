@@ -1,1 +1,1 @@
-# IS-160-AI-In-Business
+# Manual Calculation of Deep Learning
