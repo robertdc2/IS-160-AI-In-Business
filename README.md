@@ -1,1 +1,1 @@
-# IS-160-AI-In-Business
+# Deep Learning CNN with Dot Product
