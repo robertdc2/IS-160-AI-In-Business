@@ -1,1 +1,1 @@
-# Deep Learning CNN with Dot Product
+# Deep Learning CNN (Convolutional Neural Network) with Dot Product
