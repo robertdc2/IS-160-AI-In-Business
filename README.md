@@ -1,6 +1,6 @@
 # Markov Decision Process
 
-A Markov Decision Process is a mathematical framework used to model decision-making in situations where outcomes are partially random and partially controllable. It comprises a set of states, actions, transition probabilities, and rewards, where the next state and reward depend only on the current state and action, following the Markov property. Agents make decisions to maximize cumulative rewards by selecting actions in different states, considering the probabilities of transitioning to new states and the associated rewards. Understanding MDPs helps in formulating and solving various reinforcement learning problems, enabling the design of algorithms that enable agents to learn optimal policies through interactions with an environment. 
+Markov Decision Process is a mathematical framework used to model decision-making in situations where outcomes are partially random and partially controllable. It comprises a set of states, actions, transition probabilities, and rewards, where the next state and reward depend only on the current state and action, following the Markov property. Agents make decisions to maximize cumulative rewards by selecting actions in different states, considering the probabilities of transitioning to new states and the associated rewards. Understanding MDPs helps in formulating and solving various reinforcement learning problems, enabling the design of algorithms that enable agents to learn optimal policies through interactions with an environment. 
 
 Assesment of the Output:
 
