@@ -4,4 +4,4 @@ Markov Decision Process is a mathematical framework used to model decision-makin
 
 Assesment of the Output:
 
-Readers exploring MDPs can grasp the fundamental principles behind sequential decision-making, aiding them in developing strategies and algorithms for decision-making in uncertain and dynamic environments, thus contributing to the creation of more efficient AI systems.
+Readers exploring Markov Decision Process can grasp the fundamental principles behind sequential decision-making, aiding them in developing strategies and algorithms for decision-making in uncertain and dynamic environments, thus contributing to the creation of more efficient AI systems.
