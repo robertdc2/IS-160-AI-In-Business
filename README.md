@@ -1,6 +1,6 @@
 # AWS DeepRacer for RL Concept
 
-AWS DeepRacer is a reinforcement learning-based platform offered by Amazon Web Services (AWS) designed to teach and enable developers to understand and experiment with reinforcement learning concepts in a fun and practical manner. It provides a physical 1/18th scale autonomous car and a simulated environment where users can train their models to drive the car autonomously around a track. Users can define reward functions, adjust hyperparameters, and leverage various RL algorithms to train the model. 
+AWS DeepRacer is a reinforcement learning-based platform offered by Amazon Web Services (AWS) designed to teach and enable developers to understand and experiment with reinforcement learning concepts in a fun and practical manner. It provides a virtual autonomous car and a simulated environment where users can train their models to drive the car autonomously around a track. Users can define reward functions, adjust hyperparameters, and leverage various RL algorithms to train the model. 
 
 Assessment of the Output:
 
